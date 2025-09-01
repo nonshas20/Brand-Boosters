@@ -43,7 +43,7 @@ export default function Home() {
       id: '01',
       title: 'Video Production',
       subtitle: 'Engage, inspire, and leave a lasting impression.',
-      description: 'We produce cinematic-quality videos tailored to your brand\'s voice—from promotional content and social media reels to corporate interviews and compelling product stories that convert viewers into customers.',
+      description: 'We produce cinematic-quality videos tailored to your brand&apos;s voice—from promotional content and social media reels to corporate interviews and compelling product stories that convert viewers into customers.',
       image: '/images/videoproduction.jpg',
       features: ['4K Production', 'Color Grading', 'Sound Design', 'Motion Graphics']
     },
@@ -93,7 +93,7 @@ export default function Home() {
     {
       id: '05',
       title: 'Promotion',
-      description: 'It\'s time to get noticed. We launch targeted campaigns across all major social media platforms, optimize reach, and spark meaningful engagement.',
+      description: 'It&apos;s time to get noticed. We launch targeted campaigns across all major social media platforms, optimize reach, and spark meaningful engagement.',
       image: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjMwMCIgdmlld0JveD0iMCAwIDQwMCAzMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iMzAwIiBmaWxsPSIjRkVGM0MwIi8+Cjx0ZXh0IHg9IjIwMCIgeT0iMTUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjOTI0MDBEIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iYm9sZCI+UHJvbW90aW9uPC90ZXh0Pgo8L3N2Zz4K'
     },
     {
@@ -892,8 +892,8 @@ export default function Home() {
             </h2>
             
             <p className="text-xl text-gray-300 leading-relaxed max-w-3xl mb-12">
-              Let's turn your vision into viral content. Whether you need a single video or a complete brand transformation, 
-              we're here to make it happen.
+              Let&apos;s turn your vision into viral content. Whether you need a single video or a complete brand transformation, 
+              we&apos;re here to make it happen.
             </p>
           </div>
           
@@ -904,11 +904,11 @@ export default function Home() {
               <div className="bg-gradient-to-br from-yellow-50 to-white rounded-3xl p-8 md:p-10 shadow-2xl border border-yellow-100">
                 <div className="mb-8">
                   <h3 className="text-3xl font-black text-gray-900 mb-4">
-                    Let's Start Something
+                    Let&apos;s Start Something
                     <span className="text-yellow-500"> Epic</span>
                   </h3>
                   <p className="text-lg text-gray-700">
-                    Fill out the form and we'll get back to you within 24 hours.
+                    Fill out the form and we&apos;ll get back to you within 24 hours.
                   </p>
                 </div>
                 
@@ -916,7 +916,7 @@ export default function Home() {
                   {/* Name Field */}
                   <div className="group">
                     <label className="block text-lg font-semibold text-gray-900 mb-3">
-                      What's your name? *
+                      What&apos;s your name? *
                     </label>
                     <input 
                       type="text" 
@@ -977,7 +977,7 @@ export default function Home() {
                     </button>
                     
                     <p className="text-gray-600 text-sm mt-3 text-center">
-                      We'll respond within 24 hours with a custom strategy proposal
+                      We&apos;ll respond within 24 hours with a custom strategy proposal
                     </p>
                   </div>
                 </form>

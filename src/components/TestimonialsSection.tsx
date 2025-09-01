@@ -66,7 +66,7 @@ export default function TestimonialsSection() {
             <span className="text-gradient block">Are Saying</span>
           </h2>
           <p className="text-xl text-white/80 max-w-3xl mx-auto">
-            Don't just take our word for it. Here's what our amazing clients say about 
+            Don&apos;t just take our word for it. Here&apos;s what our amazing clients say about 
             working with Brand Boosters Media.
           </p>
         </div>
@@ -100,7 +100,7 @@ export default function TestimonialsSection() {
                       </div>
                       
                       <blockquote className="text-xl lg:text-2xl text-white leading-relaxed mb-8 max-w-3xl">
-                        "{testimonial.content}"
+                        &ldquo;{testimonial.content}&rdquo;
                       </blockquote>
                       
                       <div className="text-center">
