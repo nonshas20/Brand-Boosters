@@ -323,7 +323,7 @@ export default function Home() {
               <div className="relative max-w-2xl">
                 <div className="absolute -left-4 top-0 w-1 h-full bg-yellow-400"></div>
                 <p className="text-xl text-white/90 leading-relaxed pl-8 drop-shadow-lg">
-                  We don't just make videos – we engineer <span className="text-yellow-400 font-semibold">viral moments</span> that transform brands into movements. Every frame designed to captivate, every story crafted to convert.
+                  We don&apos;t just make videos – we engineer <span className="text-yellow-400 font-semibold">viral moments</span> that transform brands into movements. Every frame designed to captivate, every story crafted to convert.
                 </p>
               </div>
               
@@ -400,7 +400,7 @@ export default function Home() {
               {/* Main Description */}
               <div className="space-y-8">
                 <p className="text-2xl md:text-3xl text-gray-700 leading-relaxed font-light">
-                  At <span className="text-yellow-600 font-medium">Brand Boosters Media</span>, we're 
+                  At <span className="text-yellow-600 font-medium">Brand Boosters Media</span>, we&apos;re 
                   <span className="text-gray-900 font-medium">storytellers</span>, 
                   <span className="text-gray-900 font-medium">strategists</span>, and 
                   <span className="text-gray-900 font-medium">content creators</span>.
@@ -556,7 +556,7 @@ export default function Home() {
             
             <p className="text-xl text-gray-300 leading-relaxed max-w-4xl mx-auto mb-12">
               We blend creative storytelling with smart strategy to elevate your brand across digital platforms. 
-              Whether it's a powerful video campaign or consistent social media growth—you'll get content that connects and converts.
+              Whether it&apos;s a powerful video campaign or consistent social media growth—you&apos;ll get content that connects and converts.
             </p>
           </div>
 
